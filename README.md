@@ -14,6 +14,7 @@ Este repositorio contiene una configuración de Docker y Nginx para levantar dos
 ### 1. Clonar el repositorio
 
 ```bash
+Hacer una copia de este repositorio a tu cuenta de github, mediante el boton "Fork", y poder modificarlo desde tu usuario.
 git clone https://github.com/tu-usuario/nginx-virtual-hosts-docker.git
 cd nginx-virtual-hosts-docker
 ```
